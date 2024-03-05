@@ -42,7 +42,8 @@ class BOOK_DBAdmin(admin.ModelAdmin):
       ```
 
 ## OUTPUT
-C:\Users\admin\ORM\book database.png
+![book database](https://github.com/ADARSH778/ORM/assets/149347361/8489c3f0-dc25-4a48-b90a-58b556735982)
+
 
 
 
