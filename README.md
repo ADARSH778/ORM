@@ -42,7 +42,7 @@ class BOOK_DBAdmin(admin.ModelAdmin):
       ```
 
 ## OUTPUT
-![alt text](<book database.png>)
+![alt text](<Screenshot (13).png>)
 
 
 ## RESULT
