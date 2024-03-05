@@ -41,7 +41,7 @@ class BOOK_DBAdmin(admin.ModelAdmin):
       list_display=("bookno","authorname","bookname","version","pages");
 ```
 
-## OUTPUT:
+## OUTPUT
 
 ![output](./output.png)
 
