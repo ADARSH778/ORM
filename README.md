@@ -39,7 +39,7 @@ class Book_DB(models.Model):
        pages=models.IntegerField(default=0);
 class BOOK_DBAdmin(admin.ModelAdmin):
       list_display=("bookno","authorname","bookname","version","pages");
-      ```
+```
 
 ## OUTPUT:
 
