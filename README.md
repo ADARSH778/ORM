@@ -42,7 +42,8 @@ class BOOK_DBAdmin(admin.ModelAdmin):
       ```
 
 ## OUTPUT
-![alt text](<book database.png>)
+![book database](https://github.com/ADARSH778/ORM/assets/149347361/65f49e32-2ea2-49e4-8abe-03f6caafd2e4)
+
 
 Include the screenshot of your admin page.
 
